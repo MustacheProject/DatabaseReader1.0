@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--<books>
+<book title="Juror">
+	<authors>
+		<author>
+			<name>Giovanni</name>
+			<surname>Verga</surname>
+		</author><author>
+			<name>mario</name>
+			<surname>brega</surname>
+		</author>
+</authors>
+</book>
+</books> -->
+<books>
+	<book title="Juror #3">
+		<authors>
+			<author>
+				<name>James</name>
+				<surname>Patterson</surname>
+			</author>
+			<author>
+				<name>Nancy</name>
+				<surname>Allen</surname>
+			</author>
+		</authors>
+	</book>
+	<book title="I malavoglia - Edizione integrale">
+		<authors>
+			<author>
+				<name>Giovanni</name>
+				<surname>Verga</surname>
+			</author>
+		</authors>
+	</book>
+</books>
